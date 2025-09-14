@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: Nell
+owner: nelgie
+package: .
+scaling:
+  mode: single_concurrency
